@@ -1,0 +1,45 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	height: 100vh;
+}
+h2	{
+	text-align: center;
+}
+h1 {
+	padding-top: 100px;
+}
+h1 {
+	padding-top: 100px;
+}
+img {
+	width: 25%;
+	height: 150px;
+}
+button {
+	margin-top: 30px;
+	margin-right: auto;
+}
+#left {
+	text-align: center;
+	background-color: lightblue;
+	padding: 10px;
+	width: 50%;
+	padding: auto;
+}
+#right {
+	background-color: pink;
+	padding: 10px;
+	width: 50%;
+}
+#parent {
+	display: flex;
+	width: 100%;
+	height: 100%;
+}
+#computer {
+	text-align: center;
+}
